@@ -1,0 +1,8 @@
+{
+    "AppImageConfigName": "code-editor-app-image-config",
+    "CodeEditorAppImageConfig":
+    {
+        "ContainerConfig":
+        {}
+    }
+}

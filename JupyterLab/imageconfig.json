@@ -1,0 +1,8 @@
+{
+    "AppImageConfigName": "app-image-config-202410090948",
+    "JupyterLabAppImageConfig":
+    {
+        "ContainerConfig":
+        {}
+    }
+}
