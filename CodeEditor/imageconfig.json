@@ -1,5 +1,5 @@
 {
-    "AppImageConfigName": "code-editor-app-image-config",
+    "AppImageConfigName": "custom-image-config",
     "CodeEditorAppImageConfig":
     {
         "ContainerConfig":
