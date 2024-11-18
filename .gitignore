@@ -3,3 +3,4 @@ __pycache__/
 domainconfig.json
 .DS_Store
 *safetensors
+*.ipynb_checkpoints
